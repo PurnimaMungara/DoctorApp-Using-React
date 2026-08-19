@@ -1,0 +1,17 @@
+<!-- react renders the page only whenever the state changes
+state :
+--------------
+It is a like a variable which stores the data and which handle the dynamic data component 
+useState():
+----------------
+It is hook(built in function) that is used  to manage the state.
+import{useState} from 'react'
+let [state,setState]=useState(initialvalue)
+let[count]
+
+notes:
+count-->It is a state which holds the data 
+setCount-->It is a function which controls the count value -->
+useEffect:
+-------------
+It is used to
