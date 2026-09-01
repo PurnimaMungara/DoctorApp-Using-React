@@ -1,16 +1,40 @@
-# React + Vite
+# # 🩺 Doctor Appointment App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Doctor Appointment web application built using **React.js**.  
+This application allows users to browse doctors, view doctor details, and book appointments through a simple and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 **Live Website:**  
+https://doctor-app-using-react.vercel.app/
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 👨‍⚕️ Browse doctors
+- 🔍 Search doctors
+- 🏥 Filter doctors by specialization
+- 📋 View doctor details
+- 📅 Book appointments
+- ❤️ Add doctors to favorites
+- 👤 User registration and login
+- 📦 Manage appointments
+- 📱 Responsive design
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Redux Toolkit
+- Axios
+- Vite
+- REST API
+
+## ⚙️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/doctor-appointment-app.git
