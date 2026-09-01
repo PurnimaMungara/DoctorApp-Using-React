@@ -32,9 +32,3 @@ https://doctor-app-using-react.vercel.app/
 - Vite
 - REST API
 
-## ⚙️ Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/doctor-appointment-app.git
